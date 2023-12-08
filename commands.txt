@@ -2,8 +2,8 @@ git clone => "remort path"
 
 git push => orign brach
 
-git pull => 
+git pull => changes in remort repository to local work space
 
-git init =>
+git init => initialization of empty git repository
 
 git add -A =>
