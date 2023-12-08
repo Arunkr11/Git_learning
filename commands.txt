@@ -1,0 +1,5 @@
+git clone => "remort path"
+
+git push => orign brach
+
+git pull
