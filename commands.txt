@@ -7,3 +7,5 @@ git pull => changes in remort repository to local work space
 git init => initialization of empty git repository
 
 git add -A =>
+
+git status => to check the untracked changes or files 
