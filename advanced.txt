@@ -2,3 +2,9 @@ gitconfig --global user.name "your name"
 git config --global user.email "your email"
 git list =>list the all history
 git brach =>list all braches
+git remort add name remort path
+git remort -v
+git stash
+git stash pop
+git rebase
+git merge
