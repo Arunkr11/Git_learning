@@ -2,4 +2,8 @@ git clone => "remort path"
 
 git push => orign brach
 
-git pull
+git pull => 
+
+git init =>
+
+git add -A =>
